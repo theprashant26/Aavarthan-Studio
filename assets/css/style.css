@@ -2785,6 +2785,13 @@ select {
 }
 .pz-list li h4 {
 	color: #515462;
+	font-size: 21px;
+	font-weight: 600;
+	display: inline-block;
+	min-width: 210px;
+}
+.pz-list h4 {
+	color: #515462;
 	font-size: 20px;
 	font-weight: 500;
 	display: inline-block;
@@ -2795,6 +2802,14 @@ select {
 	color: #070c1f;
 	font-size: 20px;
 	font-weight: 500;
+}
+.pz-list strong {
+	padding: 3px;
+	color: #515462;
+	font-size: 20px;
+	font-weight: 600;
+	display: inline-block;
+	min-width: 210px;
 }
 
 .portfolio-details-info .social-links {
